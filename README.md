@@ -27,8 +27,11 @@ Positive: sentiment label (1 = positive, 0 = negative)
 **🛠️ Preprocessing Steps**.
 
 Tokenization – split reviews into words
+
 Stopword Removal – remove common English words (e.g., the, and, is)
+
 Lemmatization – reduce words to base form (running → run)
+
 Rejoin Tokens – convert processed tokens back into a string
 
 **📊 Model Evaluation**.
