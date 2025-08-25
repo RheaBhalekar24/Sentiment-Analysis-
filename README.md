@@ -1,13 +1,20 @@
 **Sentiment Analysis on Amazon Reviews (NLTK + Python)**.
+
 This project demonstrates how to perform sentiment analysis on Amazon product reviews using Natural Language Toolkit (NLTK) and scikit-learn.
+
 
 **Features**.
 Loads Amazon review dataset (20,000+ samples)
+
 Preprocesses text using:
 Tokenization
+
 Stopword removal
+
 Lemmatization
+
 Applies the preprocessing pipeline to clean review text
+
 Trains and evaluates sentiment classification model
 
 **Dataset**.
