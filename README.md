@@ -36,12 +36,16 @@ Rejoin Tokens – convert processed tokens back into a string
 
 **📊 Model Evaluation**.
 Confusion Matrix
+
 [[ 1131  3636]
+
  [  576 14657]]
 
 **Classification Report**.
 Class	Precision	Recall	F1-Score	Support
+
 0 (Negative)	0.66	0.24	0.35	4767
+
 1 (Positive)	0.80	0.96	0.87	15233
 
 **Overall Accuracy: 79%**.
